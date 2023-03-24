@@ -1,5 +1,13 @@
 # gd32f4xx_iap
 
+Env : `Windows x64，Python3, keil-4`
+
+
+```python
+pip3 install pyserial
+# or
+# pip2 install serial
+```
 
 
 ## bootLoader
