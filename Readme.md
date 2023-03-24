@@ -21,3 +21,13 @@ pip3 install pyserial
 ## Tools
 
 用于发送升级命令，传输固件
+
+## 致谢
+
+https://gitee.com/nbtech
+
+https://blog.csdn.net/weixin_42716741/article/details/113535918
+
+https://blog.csdn.net/qq_30760601/article/details/105494369
+
+https://blog.csdn.net/Stack_/article/details/124683892
